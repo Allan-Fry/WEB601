@@ -48,7 +48,7 @@ class SignIn extends Component {
     };
   
     // console.log(this.props);
-    // const { logInPanel } = this.props;
+    // .const { logInPanel } = this.props;
   
 
     render() {
